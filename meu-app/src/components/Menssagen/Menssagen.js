@@ -1,5 +1,3 @@
-import './Menssagen.css'
-
 function Menssagen() {
     // const { menssagen para loja };
     return(
